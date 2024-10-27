@@ -1,0 +1,4 @@
+Filas: armazenam as mensagens até serem consumidas.
+Produtores: enviam mensagens para a fila.
+Consumidores: processam as mensagens da fila.
+Tópicos e Partições (para Kafka): para separar mensagens em canais e distribuir a carga de trabalho.
